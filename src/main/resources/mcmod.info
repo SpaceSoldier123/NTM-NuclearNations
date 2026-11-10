@@ -1,8 +1,8 @@
 [
 {
   "modid": "hbm",
-  "name": "NTM: Space",
-  "description": "A mod that adds weapons, nuclear themed stuff and space travel",
+  "name": "NTM: Nuclear Nations",
+  "description": "A mod that adds weapons, nuclear themed stuff and space travel. Fork of NTM Space with light changes.",
   "version":"${version}",
   "mcversion": "1.7.10",
   "url": "",
